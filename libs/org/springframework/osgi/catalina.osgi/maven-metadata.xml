@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.osgi</groupId>
+  <artifactId>catalina.osgi</artifactId>
+  <versioning>
+    <versions>
+      <version>5.5.23-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130326150441</lastUpdated>
+  </versioning>
+</metadata>
